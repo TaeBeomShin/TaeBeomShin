@@ -1,7 +1,6 @@
-- 🌱 I’m currently learning on react & node.js
+- 🌱 I’m currently learning on react & redux & firebase
 
-이뻐보여서.. 해놨어요..
-내년엔 별이 많았으면 좋겠다
+매일매일 성장하기.
 
 ![TaeBeomShin's github stats](https://github-readme-stats.vercel.app/api?username=TaeBeomShin&show_icons=true)
 
