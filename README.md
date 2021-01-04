@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning on react & redux & firebase
+- 🌱 I’m currently learning on spring
 
 매일매일 성장하기.
 
